@@ -8,7 +8,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue?logo=opencv)
 ![DeepLearning](https://img.shields.io/badge/Deep%20Learning-Enabled-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
